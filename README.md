@@ -13,6 +13,14 @@ Fazer o clone desse projeto na sua máquina
 
 > yarn dev
 
+<br><h2> Para rodar as migrations:</h2>
+
+> yarn typeorm migration:run
+
+<br><h2> Para reverter as migrations:</h2>
+
+> yarn typeorm migration:revert
+
 <br><h2>Autora</h2>
 <blockquote><b>Bruna Rosa</b></blockquote>
 
