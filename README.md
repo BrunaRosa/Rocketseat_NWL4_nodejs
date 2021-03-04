@@ -1,13 +1,13 @@
 <h1> Projeto Semana NWL4 - Trilha NodeJs </h1>
 
-Esse aplicação foi criada durante as aulas de NodeJs da Rockeseat.
+Esse aplicação foi criada durante as aulas de NodeJs da Rockeseat e contém as seguintes tecnologias:
+
+- [Node](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
 
 <br><h2>Pré- requisitos</h2>
 
 Fazer o clone desse projeto na sua máquina
-
-<h3>Linguagens de Programação</h3>
-<blockquote><b>Typescript</b></blockquote>
 
 <br><h2>Para rodar o projeto</h2>
 
@@ -30,14 +30,10 @@ Fazer o clone desse projeto na sua máquina
 <br><h2>Professor do curso</h2>
 <blockquote>
 <ul> 
-    <li>Daniela</li>
+    <li>Daniele Evangelista</li>
 </ul>
 </blockquote>
 
-<br><h2>Escola</h2>
+<br><h2>Escola/Curso</h2>
 
-<blockquote>
-<ul> 
-    <li>Rockeseat</li>
-</ul>
-</blockquote>
+- [Rockeseat](https://rocketseat.com.br/)
