@@ -20,6 +20,9 @@ Fazer o clone desse projeto na sua máquina
 <br><h2> Para reverter as migrations:</h2>
 
 > yarn typeorm migration:revert
+<br><h2> Para rodar os testes: </h2>
+
+> yarn test
 
 <br><h2>Autora</h2>
 <blockquote><b>Bruna Rosa</b></blockquote>
